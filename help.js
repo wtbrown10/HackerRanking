@@ -49,7 +49,7 @@ function vowelsAndConsonants(s) {
 
         // else if (i == s.length - 1) {
 
-        //     consonants(theWord);
+        //     consonants(theWord);;
         // }
 
     }
