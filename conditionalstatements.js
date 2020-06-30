@@ -16,7 +16,7 @@ function getGrade(score) {
     }
 
 
-    // return grade;
+    // return grades;
     console.log(grade)
 }
 
