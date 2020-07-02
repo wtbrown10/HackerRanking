@@ -4,5 +4,5 @@
 *   @return {Number} The second largest number in the array.
 **/
 function getSecondLargest(nums) {
-    // Complete the function
+    // Complete the functions
 }
