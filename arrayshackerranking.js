@@ -33,3 +33,14 @@ function getSecondLargest(nums) {
 }
 
 getSecondLargest(array)
+
+
+let array = [2, 3, 6, 6, 5];
+function getSecondLargest(nums) {
+    let largestNum = Math.max(...nums);
+    nums = nums.filter(num => num !== largestNum)
+    return Math.max(...nums);
+
+}
+
+console.log(getSecondLargest(array));
